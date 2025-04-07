@@ -1,4 +1,5 @@
-﻿/*
+﻿using System;
+/*
 1. Exercício: Nome e Saudação,
 Peça ao usuário que digite seu nome e, em seguida, exiba uma saudação personalizada
 utilizando o nome inserido

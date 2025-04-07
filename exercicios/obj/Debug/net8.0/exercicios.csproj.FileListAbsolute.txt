@@ -12,3 +12,4 @@ C:\Users\GUSTAVORIBEIRODEOLIV\Documents\C---ATIVIDADES\exercicios\obj\Debug\net8
 C:\Users\GUSTAVORIBEIRODEOLIV\Documents\C---ATIVIDADES\exercicios\obj\Debug\net8.0\exercicios.pdb
 C:\Users\GUSTAVORIBEIRODEOLIV\Documents\C---ATIVIDADES\exercicios\obj\Debug\net8.0\exercicios.genruntimeconfig.cache
 C:\Users\GUSTAVORIBEIRODEOLIV\Documents\C---ATIVIDADES\exercicios\obj\Debug\net8.0\ref\exercicios.dll
+C:\Users\GUSTAVORIBEIRODEOLIV\Documents\C---ATIVIDADES\exercicios\obj\Debug\net8.0\exercicios.sourcelink.json
